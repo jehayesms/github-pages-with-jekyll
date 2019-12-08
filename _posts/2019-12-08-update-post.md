@@ -1,1 +1,3 @@
-This is first blog post.
+--- 
+title: "Title for Blog Post"
+date: 2019-12-08
